@@ -19,7 +19,7 @@ Esta é uma aplicação Java que realiza automação para obter informações de
 3. Configure o acesso ao banco de dados MySQL no arquivo EnderecoRepository.java, localizado no pacote repository.
 
 ## Uso
-1. Execute a classe Main no pacote controller para iniciar a aplicação.
+1. Execute a classe EnderecoController no pacote controller para iniciar a aplicação.
 2. Insira o CEP desejado quando solicitado.
 3. Os dados de endereço serão buscados na API do Brasil Docs, armazenados no banco de dados e exibidos no console.
 
