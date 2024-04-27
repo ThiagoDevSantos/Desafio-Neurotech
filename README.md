@@ -1,5 +1,3 @@
-# ATIVIDADE 1
-
 # Aplicação de Endereço
 
 Esta é uma aplicação Java que realiza automação para obter informações de endereço utilizando a API externa do Brasil Docs. A aplicação foi desenvolvida em Java 11, utilizando JDBC para interação com um banco de dados MySQL 8 e seguindo princípios de Clean Code.
