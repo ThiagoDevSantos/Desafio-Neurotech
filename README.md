@@ -19,7 +19,6 @@ Esta é uma aplicação Java que realiza automação para obter informações de
 1. Certifique-se de ter o Java 11 e o MySQL 8 instalados em sua máquina.
 2. Clone este repositório.
 3. Configure o acesso ao banco de dados MySQL no arquivo EnderecoRepository.java, localizado no pacote repository.
-4. Execute o script create_table.sql para criar a tabela necessária no banco de dados.
 
 ## Uso
 1. Execute a classe Main no pacote controller para iniciar a aplicação.
@@ -30,7 +29,7 @@ Esta é uma aplicação Java que realiza automação para obter informações de
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request ou uma issue para sugerir melhorias.
 
 ## Autores
-Esta aplicação foi desenvolvida por [Seu Nome].
+Esta aplicação foi desenvolvida por Thiago.
 
 ## Licença
 Este projeto está licenciado sob a Licença MIT - consulte o arquivo LICENSE para obter detalhes.
